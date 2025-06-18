@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-05-14T13:18:52.382242",
+            "datePublished": "2025-06-18T12:05:40.201593",
             "hasPart": [
                 {
                     "@id": "quality_and_contamination_control.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#853c410a-06e4-40f9-9765-e779e746729e"
+                    "@id": "#d1a22174-6101-451b-863b-f47623244a71"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/quality-and-contamination-control",
-            "version": "1.1.8"
+            "version": "1.1.9"
         },
         {
             "@id": "#galaxy",
@@ -96,7 +96,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#853c410a-06e4-40f9-9765-e779e746729e",
+            "@id": "#d1a22174-6101-451b-863b-f47623244a71",
             "@type": "Person",
             "name": "ABRomics"
         },
